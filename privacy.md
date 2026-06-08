@@ -16,4 +16,4 @@ We use your phone number exclusively for:
 **No mobile information will be shared with third parties for marketing or promotional purposes.** We do not sell your personal data to any third-party marketing companies.
 
 ### Contact Us
-If you have questions regarding this policy, please contact us at [Your Email Address].
+If you have questions regarding this policy, please contact us at arabelis_gonzalez@hotmail.com.
