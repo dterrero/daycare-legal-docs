@@ -14,7 +14,7 @@ Message frequency varies based on your check-in/check-out activity.
 You can opt out of SMS messages at any time. Simply reply **STOP** to any message received from us. After you send the message "STOP" to us, we will send you a reply message to confirm that you have been unsubscribed.
 
 ### Help (HELP)
-For assistance, reply **HELP** to any message you receive, or contact us at [Your Email Address].
+For assistance, reply **HELP** to any message you receive, or contact us at arabelis_gonzalez@hotmail.com
 
 ### Message & Data Rates
 Message and data rates may apply to all SMS messages. Please check with your mobile service provider for your specific plan details.
