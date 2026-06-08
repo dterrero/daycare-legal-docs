@@ -2,7 +2,7 @@
 
 **Last Updated:** June 8, 2026
 
-[Gonzalez Family] ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information provided by you when using our daycare management services.
+Gonzalez Family ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information provided by you when using our daycare management services.
 
 ### Information We Collect
 We collect personal information such as names, contact details, and phone numbers when you register for our services.
